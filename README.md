@@ -1,6 +1,6 @@
 # trabajoredes.github.io
 
-En este ejercicio hemos tenido que crear 5 redes, cada una con una ip red diferente, y tendremos que añadir en RIP además de su propia ip, la ip de los servidores a los que están reñazionados
+En este ejercicio hemos tenido que crear 5 redes, cada una con una ip red diferente, y tendremos que añadir en el RIp de cada router además de su propia ip, la ip de los servidores a los que están reLazionados
 La primera formada por 3 subredes, cada una soportando distintos host. para conseguir las ips y las nuevas máscaras hacemos las operaciones necesarias 
 En la segunda y tercera red creamos un servidor con una ip DHCP para más tarde crear los ordenadores y darles esa ip automáticamente
 En la cuarta red, es necesario crear un punto de acceso, que tendremos que conectar al switch. a este punto de acceso. los ordenadores que queremos conectar a éste tenemos que ponerle una interfaz inalámbrica, pinchamos en desktop y en PC wireless y lo conectamos al punto de acceso que hemos creado
