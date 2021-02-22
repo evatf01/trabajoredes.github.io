@@ -10,7 +10,7 @@ Finalemnte conectaremos los routers desde la ventana CLI, usando los siguientes 
   -n
   -enable
   -configurate terminal
-  -interface fastethernet (posicion del router)
+  -interface fastethernet (posicion del cable)
   -ip address (ip del router)
   
   hacemos el mismo proceso pero con el serial
