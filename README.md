@@ -6,7 +6,7 @@ En la segunda y tercera red creamos un servidor con una ip DHCP para más tarde 
 En la cuarta red, es necesario crear un punto de acceso, que tendremos que conectar al switch. a este punto de acceso. los ordenadores que queremos conectar a éste tenemos que ponerle una interfaz inalámbrica, pinchamos en desktop y en PC wireless y lo conectamos al punto de acceso que hemos creado
 enla 5 red creamaos los 3 servidores dns para cada web con su nombre e ip en los servicios de DNS
 
-Finalemnte conectaremos los routers desde la ventana CLI, usando los siguientes comandos:
+Finalemnte conectaremos los routers,(configuramos el rip con la version 2) desde la ventana CLI, usando los siguientes comandos:
   -n
   -enable
   -configurate terminal
